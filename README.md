@@ -1,8 +1,8 @@
 # client-mgmt-system
 
-### Description:
+Java desktop application that allows clients to browse and update records
 
-Java desktop application that allows clients to browse and update records:
+### Description:
 
 * Client-server architecture
 * SQL database
