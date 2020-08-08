@@ -1,5 +1,4 @@
 # client-mgmt-system
-
 Java desktop application that allows clients to browse and update records
 
 ### Description:
